@@ -139,8 +139,8 @@ ____________________________its not a name it's a Brand_________________
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
-CorrectUsername = "komail"
-CorrectPassword = "khan"
+CorrectUsername = "S4IFUl"
+CorrectPassword = "Saif"
 
 loop = 'true'
 while (loop == 'true'):
